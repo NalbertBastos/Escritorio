@@ -94,3 +94,12 @@ a{
     width: 900px;
     margin: 0 auto;
 }*/
+
+@media (max-width: 768px){
+    img{
+        width: 150px;
+        height: 200px;
+        display: block;
+        margin: 0 auto;
+    }
+}
