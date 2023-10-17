@@ -1,0 +1,96 @@
+
+
+body{
+    background-color: rgb( 90, 79, 83);
+    box-shadow: 2px 1px 20px 7px rgb(126, 126, 126);
+    width: auto;
+    height: auto;
+
+}
+h1{
+    color: rgb(197, 153, 46);
+    text-align: center;
+}
+li{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+}
+ul :hover{
+    text-decoration: underline;
+    color:rgb(197, 153, 46);
+
+}
+img:hover{
+    width: 350px;
+    height: 400px;
+    box-shadow: 2px 2px 20px 1px rgb(165, 165, 165);
+}
+#civil{
+    width: 450px;
+    height: 350px;
+}
+#trab{
+    width: 450px;
+    height: 350px;
+}
+#consu{
+    width: 450px;
+    height: 350px;
+}
+
+
+
+#logo{
+    width: 400px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+img{
+    width: 350px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+.apresenta{
+    text-align: center;
+    color: rgb(197, 153, 46);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17pt;
+    margin-top: 80px;
+}
+/*div.apresenta{
+    border-radius: 5px;
+    box-shadow: 2px 2px 1px 2px;
+    color: rgb(165, 164, 164);
+    width: 900px;
+    margin: 0 auto;
+}*/
+p{
+    text-align: center;
+    color: rgb(197, 153, 46);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17pt;
+    margin-top: 80px;
+}
+#copy{
+    text-align: center;
+    color: white;
+    font-size: 9pt;
+}
+#end{
+    text-decoration: underline;
+
+}
+a{
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+/*div#div{
+    border-radius: 5px;
+    box-shadow: 2px 2px 1px 2px;
+    color: rgb(165, 164, 164);
+    width: 900px;
+    margin: 0 auto;
+}*/
