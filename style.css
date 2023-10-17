@@ -124,8 +124,8 @@ a{
 
 @media (max-width: 500px){
     img{
-        width: 120px;
-        height: 160px;
+        width: 200px;
+        height: 260px;
         display: block;
         margin: 0 auto;
     }
