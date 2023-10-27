@@ -21,9 +21,6 @@ ul :hover{
     color:rgb(197, 153, 46);
 
 }
-img:hover{
-    box-shadow: 2px 2px 20px 1px rgb(165, 165, 165);
-}
 #civil{
     width: 450px;
     height: 350px;
